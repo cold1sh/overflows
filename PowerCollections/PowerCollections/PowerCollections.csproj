@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<Deterministic>false</Deterministic>
+		
+		<Authors>Телицын Константин, Ш20-191-1</Authors>
+		<Copyright>Copyright (c) 2002-2023,  Телицын"</Copyright>
+		<ProductName>Telitsyn Konstantin Powercollections</ProductName>
+		<PackageId>TelitsynKostya.Powercollections</PackageId>
+		<Version>0.0.2-beta</Version>
+		<RepositoryUrl>https://github.com/cold1sh/DevTools_lab02.git</RepositoryUrl>
+	</PropertyGroup>
+
+</Project>
